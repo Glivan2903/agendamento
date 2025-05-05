@@ -1,8 +1,8 @@
 <?php
 // Configurações do Supabase
 // Adicione as configurações do seu Supabase aqui
-$SUPABASE_URL = 'SUA_URL_DO_SUPABASE';
-$SUPABASE_KEY = 'SUA_CHAVE_ANON_KEY';
+$SUPABASE_URL = 'https://srnadjqyesxkqziwphsm.supabase.co';
+$SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNybmFkanF5ZXN4a3F6aXdwaHNtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU4NDcxNzQsImV4cCI6MjA2MTQyMzE3NH0.UXTqyHXErrnrspnpXi96MG4mv4CP4-9UiOWyU4tHLHc';
 
 // Configurações de timezone
 date_default_timezone_set('America/Sao_Paulo');
